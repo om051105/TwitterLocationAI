@@ -23,7 +23,7 @@
 ### Local Installation:
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/LocationIntelligenceAI.git
+git clone https://github.com/yourusername/LocationIntelligenceAI](https://github.com/om051105/TwitterLocationAI.git
 cd LocationIntelligenceAI
 
 # Install dependencies
